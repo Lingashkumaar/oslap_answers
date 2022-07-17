@@ -19,7 +19,7 @@ echo "hello" > test.txt
 ```
 add the file in the repo
 ```
-git add .
+git add test.txt
 ```
 commit the changes 
 ```
