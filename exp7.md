@@ -34,7 +34,7 @@ git add new.txt
 ```
 commit your changes
 ```
-git commit -m new.txt
+git commit -m "new.txt"
 ```
 push the new branch to remote
 ```
